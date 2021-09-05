@@ -1,0 +1,15 @@
+{
+  "name": "transfer-ckbs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "transfer-ckbs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nervosnetwork/ckb-sdk-core": "^0.43.0",
+    "dotenv": "^10.0.0"
+  }
+}
