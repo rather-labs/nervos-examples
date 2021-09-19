@@ -14,7 +14,7 @@ function Cell(props) {
 			</ul>
             Output Data
 			<ul className="list-group list-group-flush">
-				<li className="list-group-item">args: {cell.output_data}</li>
+				<li className="list-group-item">data: {cell.output_data}</li>
 			</ul>
             OutPoint
 			<ul className="list-group list-group-flush">
